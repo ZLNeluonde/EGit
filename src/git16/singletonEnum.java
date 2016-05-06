@@ -1,4 +1,5 @@
 package git16;
+
 import java.util.Scanner;
 
 public enum singletonEnum {
